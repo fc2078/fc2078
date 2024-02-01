@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan Chowdury</h1>
-<h3 align="center">An amateur frontend developer form Bangladesh, living the New York City.</h3>
+<h3 align="center">An amateur frontend developer from Bangladesh, living the New York City.</h3>
 
 - 🌱 I’m currently learning **Frontend development** at the Brooklyn STEAM Center
 
