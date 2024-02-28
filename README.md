@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Frontend development** at the Brooklyn STEAM Center
 
-- 📫 Email me: **fchowdury@brooklynsteamcenter.org**
-
 - 🏫 Junior at Bedford Academy High School and the Brooklyn STEAM Center
+
+- 📫 Email me: **fchowdury@brooklynsteamcenter.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
