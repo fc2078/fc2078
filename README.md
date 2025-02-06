@@ -5,6 +5,8 @@
 
 - 🏫 Senior at Bedford Academy High School and the Brooklyn STEAM Center
 
+- 🎓 NHS Member
+
 - 📫 Email me: **fchowdury@brooklynsteamcenter.org**
 
 <h3 align="left">Connect with me (personally):</h3>
