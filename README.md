@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhan Chowdury</h1>
-<h3 align="center">An amateur frontend developer from Bangladesh, living the New York City.</h3>
+<h3 align="center">An tech nerd from Bangladesh, living the New York City.</h3>
 
-- 🌱 I’m currently learning **Fullstack development** at the Brooklyn STEAM Center
+- 🌱 Web developer in training at the **Brooklyn STEAM Center**
 
 - 🏫 Senior at Bedford Academy High School and the Brooklyn STEAM Center
 
