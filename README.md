@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Farhan Chowdury</h1>
-<h3 align="center">An tech nerd from Bangladesh, living the New York City.</h3>
+<h3 align="center">Born and raised in Brooklyn, NY</h3>
+<h3 align="center">Frontend and Backend Web Developer</h3>
 
 - 🌱 Web developer in training at the **Brooklyn STEAM Center**
 
-- 🏫 Senior at Bedford Academy High School and the Brooklyn STEAM Center
+- 🏫 Class of 2025 at the Brooklyn Navy Yard STEAM Center and Bedford Academy High School
+  
+- 🎓 Class of 2029 and Computer Science major at Brooklyn College
 
-- 🎓 NHS Member
+- 🎖️ NHS Member
 
 - 📫 Email me: **fchowdury@brooklynsteamcenter.org**
 
